@@ -1,1 +1,1 @@
-alert( 'Hello, world!' ); 
+var str = "Kontent Console healthy"; console.log(str);
